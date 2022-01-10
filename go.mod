@@ -13,7 +13,7 @@ require (
 	github.com/lucas-clemente/quic-go v0.24.0 // indirect
 	github.com/mdlayher/netlink v1.4.1 // indirect
 	github.com/mdlayher/socket v0.0.0-20211102153432-57e3fa563ecb // indirect
-	github.com/miekg/dns v1.1.43
+	github.com/miekg/dns v1.1.45
 	github.com/mitchellh/mapstructure v1.4.2
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/vishvananda/netlink v1.1.1-0.20201029203352-d40f9887b852

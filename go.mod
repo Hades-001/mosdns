@@ -7,7 +7,7 @@ require (
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/google/nftables v0.0.0-20211209220838-6f19c4381e13
 	github.com/kardianos/service v1.2.1
-	github.com/miekg/dns v1.1.45
+	github.com/miekg/dns v1.1.46
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/vishvananda/netlink v1.1.1-0.20201029203352-d40f9887b852
 	go.uber.org/zap v1.20.0

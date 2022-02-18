@@ -3,7 +3,7 @@ module github.com/IrineSistiana/mosdns/v3
 go 1.17
 
 require (
-	github.com/AdguardTeam/dnsproxy v0.40.6
+	github.com/AdguardTeam/dnsproxy v0.41.2
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/google/nftables v0.0.0-20211209220838-6f19c4381e13
 	github.com/kardianos/service v1.2.1
@@ -19,7 +19,7 @@ require (
 )
 
 require (
-	github.com/AdguardTeam/golibs v0.10.4 // indirect
+	github.com/AdguardTeam/golibs v0.10.6 // indirect
 	github.com/BurntSushi/toml v1.0.0 // indirect
 	github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da // indirect
 	github.com/aead/poly1305 v0.0.0-20180717145839-3fee0db0b635 // indirect

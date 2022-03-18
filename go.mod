@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/AdguardTeam/dnsproxy v0.40.6
-	github.com/go-redis/redis/v8 v8.11.4
+	github.com/go-redis/redis/v8 v8.11.5
 	github.com/google/nftables v0.0.0-20211209220838-6f19c4381e13
 	github.com/kardianos/service v1.2.1
 	github.com/miekg/dns v1.1.45
